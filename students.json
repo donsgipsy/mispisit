@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "last_name": "Иванов",
+        "first_name": "Иван",
+        "middle_name": "Иванович",
+        "dob": "2005-05-15",
+        "address": "ул. Ленина 1",
+        "phone": "+79001112233",
+        "faculty": "ИТ",
+        "course": 2,
+        "group": "ИТ-21",
+        "gpa": 4.8
+    },
+    {
+        "id": 2,
+        "last_name": "Петрова",
+        "first_name": "Анна",
+        "middle_name": "Сергеевна",
+        "dob": "2004-11-20",
+        "address": "пр. Мира 5",
+        "phone": "+79004445566",
+        "faculty": "Экономика",
+        "course": 3,
+        "group": "ЭК-31",
+        "gpa": 3.5
+    },
+    {
+        "id": 3,
+        "last_name": "Сидоров",
+        "first_name": "Максим",
+        "middle_name": "Алексеевич",
+        "dob": "2006-01-10",
+        "address": "ул. Гагарина 10",
+        "phone": "+79007778899",
+        "faculty": "ИТ",
+        "course": 1,
+        "group": "ИТ-11",
+        "gpa": 4.2
+    },
+    {
+        "id": 4,
+        "last_name": "Смирнова",
+        "first_name": "Елена",
+        "middle_name": "Дмитриевна",
+        "dob": "2003-08-05",
+        "address": "ул. Пушкина 3",
+        "phone": "+79000001122",
+        "faculty": "Экономика",
+        "course": 3,
+        "group": "ЭК-31",
+        "gpa": 4.9
+    }
+]
